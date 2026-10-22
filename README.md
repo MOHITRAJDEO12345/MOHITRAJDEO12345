@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohit Raj Deo
-### **Backend & Distributed Systems Engineer | Cloud Infrastructure Builder**
+### **Backend & Distributed Systems Engineer | Platform Architect**
 Architecting resilient systems that scale, self-heal, and drive real-world impact.
 
 <p align="center">
@@ -11,9 +11,11 @@ Architecting resilient systems that scale, self-heal, and drive real-world impac
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitrajdeo12345&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/LPU-B.Tech_CSE_9.09_CGPA-blue?style=flat-square" alt="Education" />
+  <img src="https://img.shields.io/badge/GitHub_Contributions-1%2C940%2B-00f0ff?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Repositories-30%2B_Active-3b82f6?style=flat-square&logo=git&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/LPU-B.Tech_CSE_9.09_CGPA-10b981?style=flat-square" alt="Education" />
   <img src="https://img.shields.io/badge/Patent-Published_%23202511089783-f59e0b?style=flat-square" alt="Patent" />
+  <img src="https://komarev.com/ghpvc/?username=mohitrajdeo12345&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -22,12 +24,29 @@ Architecting resilient systems that scale, self-heal, and drive real-world impac
 
 ## 📌 Executive Summary
 
-I am a **Backend and Distributed Systems Engineer** passionate about designing fault-tolerant, high-throughput cloud infrastructure and autonomous computing platforms. Currently engineering production distributed backends at **Eduniketan Private Limited (TheEduCode)**, with published intellectual property at the **Indian Patent Office** for AI-driven system health and anomaly detection.
+I am a **Backend and Distributed Systems Engineer** who architects and operates fault-tolerant, high-throughput cloud infrastructure and autonomous computing platforms. Currently engineering production distributed backends at **Eduniketan Private Limited (TheEduCode)**, with published intellectual property at the **Indian Patent Office** for AI-driven system health and anomaly detection.
 
 - 🌐 **Interactive Portfolio:** [mohit-raj-deo-portfolio.vercel.app](https://mohit-raj-deo-portfolio.vercel.app/)
 - 🏢 **Current Role:** Software Engineer at **Eduniketan Private Limited (TheEduCode)**
 - 🎓 **Education:** B.Tech in Computer Science and Engineering @ **Lovely Professional University** (CGPA: **9.09**)
 - 🏛️ **Published Patent:** Application No: **202511089783** (*AI-Powered Real-Time System Monitoring and Optimization Platform*)
+
+---
+
+## 📊 GitHub Contribution & Engineering Activity
+
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHITRAJDEO12345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mohit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITRAJDEO12345&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MOHITRAJDEO12345&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+</p>
+
+</div>
 
 ---
 
@@ -45,7 +64,7 @@ I am a **Backend and Distributed Systems Engineer** passionate about designing f
 
 ---
 
-## ⚡ Production Engineering at TheEduCode ([theeducode.com](https://www.theeducode.com))
+## ⚡ Production Systems Engineering ([theeducode.com](https://www.theeducode.com))
 
 | System Component | Engineering & Architecture | Measurable Impact |
 | :--- | :--- | :--- |
@@ -56,12 +75,22 @@ I am a **Backend and Distributed Systems Engineer** passionate about designing f
 
 ---
 
+## 🚀 Key Open-Source & Architectural Repositories
+
+- 📦 **[mohit-raj-deo-portfolio](https://github.com/MOHITRAJDEO12345/mohit-raj-deo-portfolio)** — Next.js 16 interactive 3D portfolio featuring dynamic HUD interfaces, SSR static sitemaps, and Schema.org JSON-LD SEO.
+- ⚙️ **[testing-judge0-vm](https://github.com/MOHITRAJDEO12345/testing-judge0-vm)** — High-performance remote code execution daemon in **Go**, Docker cgroup sandboxing, CPU/memory throttling, and sub-second execution limits.
+- 🔒 **[browser](https://github.com/MOHITRAJDEO12345/browser)** — Native security lockdown client in **Rust** (Tauri + Win32 API) for real-time unauthorized process monitoring and termination during exams.
+- 🌐 **[livekit](https://github.com/MOHITRAJDEO12345/livekit)** — Distributed WebRTC SFU cluster deployments on AWS EKS with Kubernetes pod auto-scaling and BunnyCDN edge caching.
+- 🤖 **[gemini-live-api-examples](https://github.com/MOHITRAJDEO12345/gemini-live-api-examples)** — Real-time multimodal voice and vision streaming agent implementations.
+
+---
+
 ## 🛠️ Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
     <td align="left" width="25%"><b>Languages</b></td>
-    <td><code>Python</code>, <code>C++</code>, <code>Java</code>, <code>JavaScript (ES6+)</code>, <code>TypeScript</code>, <code>SQL</code>, <code>Bash</code></td>
+    <td><code>Python</code>, <code>C++</code>, <code>Java</code>, <code>JavaScript (ES6+)</code>, <code>TypeScript</code>, <code>Go</code>, <code>Rust</code>, <code>SQL</code>, <code>Bash</code></td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>Backend & Systems</b></td>
